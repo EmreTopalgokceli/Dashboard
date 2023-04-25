@@ -18,7 +18,7 @@ In this part, the dictionary created in Policy Determination is put as an input 
 
 **Usage**
 
-To use this code, simply run the Python file in a Python environment. Input the countries and their new assessments in the Policy Determination part, and the dashboard will be generated showing how the changes affect the company's portfolio. Please note that due to data privacy, the names of countries and customers are anonymized.
+To use this code, simply run the Python file (script.py) in a Python environment. Input the countries and their new assessments in the Policy Determination part, and the dashboard will be generated showing how the changes affect the company's portfolio. Please note that due to data privacy, the names of countries and customers are anonymized.
 
 **Result**
 
